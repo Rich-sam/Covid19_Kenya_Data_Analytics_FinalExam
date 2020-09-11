@@ -1,0 +1,2 @@
+# Covid19_Kenya_Data_Analytics_FinalExam
+Suppose you have been hired by your county government to as data scientist. Design a data pipeline model that uses data lake approach for collecting COVID-19 data from various hospitals that are treating COVID-19 patients. The design should include the following features:     i)  Data ingestion    ii)  ETL for data lake as a staging (landing) Area    iii)  Analytics database 
